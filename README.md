@@ -1,7 +1,7 @@
 # Vo Quang Tri — Personal Homepage
 
 This is my personal homepage hosted with **GitHub Pages** at  
-👉 [https://yourusername.github.io](https://yourusername.github.io)
+👉 [https://voquangtri2708.github.io](https://voquangtri2708.github.io)
 
 ## About
 I am an **AI/ML & Software Engineer** passionate about building end-to-end systems:
